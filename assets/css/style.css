@@ -1,0 +1,53 @@
+h1{
+    color: darkred;
+}
+
+div {
+
+    text-align: center;
+    justify-content: center;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+
+}
+
+.container {
+    text-align: center;
+
+}
+
+h1 {
+    color: #007BFF;
+}
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+
+
+
+.cuadrado {
+    width: 100px; /* Ancho del cuadrado */
+    height: 100px; /* Alto del cuadrado */
+    background-color: #3498db; /* Color de fondo */
+    margin-left: 25px;
+
+
+}
+
+.contenedor {
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura de la ventana */
+}
